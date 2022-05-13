@@ -4,8 +4,7 @@
 
 Мой стек:
 
-![image](https://user-images.githubusercontent.com/35116248/168238537-ebac268c-4dd2-44b8-8852-1b87be0c091f.png)
-
+<a target="_blank" href="https://icons8.com/icon/101353/html-5">HTML 5</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 Люблю творческие задачи и много учиться.
 
