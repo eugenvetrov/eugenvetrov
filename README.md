@@ -11,6 +11,8 @@
 - Bootstrap
 - JavaScript
 - React
+- Angular
+- Vue.js
 - Node.js
 - Express
 - MongoDB
