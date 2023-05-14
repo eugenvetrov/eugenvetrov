@@ -4,7 +4,7 @@ In life, I am most interested in science and communication with people. Web deve
 In Front-end development, I like the fact that it is a part of an application that people interact with directly.
 Programming is my passion. It is an activity that helps me feel satisfaction from what I do.
 
-## Мой стек:
+## My stack:
 - HTML
 - CSS
 - Bootstrap
@@ -19,7 +19,5 @@ Programming is my passion. It is an activity that helps me feel satisfaction fro
 - MySQL
 - Java
 - Spring
-
-Я - доброжелателен и в целом люблю общаться, особенно по делу.
 
 telegram: @evvtrv
