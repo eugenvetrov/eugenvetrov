@@ -1,9 +1,8 @@
-### Здравствуйте! 👋
+### Hello! I am Eugene Vetrov, a front-end developer. 👋
 
-Я Евгений, начинающий frontend разработчик.
-В данный момент работаю frontend разработчиком в компании "Высокие Технологии для Бизнеса".
-
-Люблю творческие задачи и много учиться. Больше всего в жизни мне интересны наука и общение с людьми. Веб-разработка привлекает меня как раз тем, что это наукоемкая, социальная деятельность.
+In life, I am most interested in science and communication with people. Web development attracts me precisely because it is a science-intensive and social activity.
+In Front-end development, I like the fact that it is a part of an application that people interact with directly.
+Programming is my passion. It is an activity that helps me feel satisfaction from what I do.
 
 ## Мой стек:
 - HTML
